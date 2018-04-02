@@ -1,1 +1,2 @@
-# DAOZHE
+切换不同的GitHub的仓库更改相对应的SSH或者HTTPS，或者重新在终端输入SSH或者HTTPS这样说是对的吗？
+是的，对的。
